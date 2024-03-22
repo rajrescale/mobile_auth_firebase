@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "617729333010",
+    "project_id": "mobile-valida",
+    "storage_bucket": "mobile-valida.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617729333010:android:6247ce2fb41d2156ab05cb",
+        "android_client_info": {
+          "package_name": "com.example.phone_auth_firebase_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0LtVPdNk8SQwS7xfgDVxoGaZC-bJztR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
